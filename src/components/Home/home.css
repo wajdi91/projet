@@ -1,0 +1,9 @@
+.f1 {
+  margin-left: 300px;
+  margin-top: 50px;
+  width: 50%;
+  height: 50%;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+}
